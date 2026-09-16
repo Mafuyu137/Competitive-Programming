@@ -4,21 +4,25 @@
 
 [Enlace del problema](https://cpcjudge.com/problem/saludandoatodos)
 <br>
+<br>
 
 ## Análisis
 
 Como buen programador, todo se inicia saludando a todos como señal de una nueva aventura.
+<br>
 <br>
 
 ## Propuesta de solución
 
 Imprimir lo que solicita
 <br>
+<br>
 
 ## Complejidad
 
 - Tiempo: `O(1)`
 - Memoria: `O(1)`
+<br>
 <br>
 
 ## Implementación
