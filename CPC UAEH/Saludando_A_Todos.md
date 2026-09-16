@@ -23,7 +23,6 @@ Imprimir lo que solicita
 - Tiempo: `O(1)`
 - Memoria: `O(1)`
 <br>
-<br>
 
 ## Implementación
 
