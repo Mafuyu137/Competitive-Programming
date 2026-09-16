@@ -2,7 +2,7 @@
 
 ## Problema
 
-[Enlace del problema] (https://cpcjudge.com/problem/saludandoatodos)
+[Enlace del problema](https://cpcjudge.com/problem/saludandoatodos)
 
 ## Análisis
 
@@ -14,7 +14,7 @@ Imprimir lo que solicita
 
 ## Complejidad
 
-- Tiempo: 'O(1)'
-- Memoria: 'O(1)'
+- Tiempo: `O(1)`
+- Memoria: `O(1)`
 
 ## Implementación
