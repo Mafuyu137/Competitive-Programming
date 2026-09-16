@@ -1,2 +1,2 @@
 # Competitive-Programming
-Propuestas personales de razonamiento y códigos de solución a problemas de Programación Competitiva
+Propuestas código a la solución de problemas de Programación Competitiva principalmente en ICPC, Codeforces, CSES y CPC UAEH.
