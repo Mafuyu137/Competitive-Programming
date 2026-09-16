@@ -27,4 +27,4 @@ Las soluciones están implementadas principalmente en **C++**.
     * Servidor creado y usado por miembros del CLub de Programación Competitiva de la Universidad Autónoma del Estado de Hidalgo 
 
 * [**ICPC**](https://icpc.global/)
-    * (International Collegiate Programming Contest) es la competencia de programación algorítmica más antigua, grande y prestigiosa del mundo para estudiantes universitarios. Donde equipos de 3 integrantes tienen 5 horas para resolver un conjunto de 10 a 16 problemas usando lógica y programación con el objetivo de resolver la mayor cantidad de problemas en el menor tiempo poisble.
+    * (International Collegiate Programming Contest) es la competencia de programación algorítmica más antigua, grande y prestigiosa del mundo para estudiantes universitarios. Donde equipos de 3 integrantes tienen 5 horas para resolver un conjunto de 10 a 16 problemas usando lógica y programación con el objetivo de resolver la mayor cantidad de problemas en el menor tiempo poisble. 
